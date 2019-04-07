@@ -54,3 +54,8 @@ Trust AurumCoin Hunter and Join us.
 - Daemon ubuntu 16.04: https://drive.google.com/file/d/1__2Lo4Cpg563MlmFLUh2qiaZbxCmvl7N/view?usp=sharing
 - Daemon ubuntu 18.04: https://drive.google.com/file/d/1K6UI9jBOJbXFgJmnVK2pA_xdDLQOENio/view?usp=sharing
 - qt-ubuntu 16.04: https://drive.google.com/file/d/1hKcvALhfE5qYMRTFXiT_Pvre1mQ29d58/view?usp=sharing
+
+
+## Buy Masternode Au79
+
+- Website: https://www.aurumcoinhunter.org/
