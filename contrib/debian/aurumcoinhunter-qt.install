@@ -1,0 +1,6 @@
+usr/local/bin/aurumcoinhunter-qt usr/bin
+share/pixmaps/aurumcoinhunter32.xpm usr/share/pixmaps
+share/pixmaps/aurumcoinhunter16.xpm usr/share/pixmaps
+share/pixmaps/aurumcoinhunter128.png usr/share/pixmaps
+debian/aurumcoinhunter-qt.desktop usr/share/applications
+debian/aurumcoinhunter-qt.protocol usr/share/kde4/services/

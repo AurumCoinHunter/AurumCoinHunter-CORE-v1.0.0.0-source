@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/aurumcoinhunter_bg.qm</file>
+        <file alias="de">locale/aurumcoinhunter_de.qm</file>
+        <file alias="en">locale/aurumcoinhunter_en.qm</file>
+        <file alias="es">locale/aurumcoinhunter_es.qm</file>
+        <file alias="fi">locale/aurumcoinhunter_fi.qm</file>
+        <file alias="fr">locale/aurumcoinhunter_fr.qm</file>
+        <file alias="it">locale/aurumcoinhunter_it.qm</file>
+        <file alias="ja">locale/aurumcoinhunter_ja.qm</file>
+        <file alias="nl">locale/aurumcoinhunter_nl.qm</file>
+        <file alias="pl">locale/aurumcoinhunter_pl.qm</file>
+        <file alias="pt">locale/aurumcoinhunter_pt.qm</file>
+        <file alias="ru">locale/aurumcoinhunter_ru.qm</file>
+        <file alias="sk">locale/aurumcoinhunter_sk.qm</file>
+        <file alias="sv">locale/aurumcoinhunter_sv.qm</file>
+        <file alias="vi">locale/aurumcoinhunter_vi.qm</file>
+        <file alias="zh_CN">locale/aurumcoinhunter_zh_CN.qm</file>
+        <file alias="zh_TW">locale/aurumcoinhunter_zh_TW.qm</file>
+    </qresource>
+</RCC>

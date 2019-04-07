@@ -1,0 +1,22 @@
+[Unit]
+Description=AurumCoinHunter's distributed currency daemon
+After=network.target
+
+[Service]
+User=aurumcoinhuntercore
+Group=aurumcoinhuntercore
+
+Type=forking
+PIDFile=/var/lib/aurumcoinhunterd/aurumcoinhunterd.pid
+ExecStart=/usr/bin/aurumcoinhunterd -daemon -pid=/var/lib/aurumcoinhunterd/aurumcoinhunterd.pid \
+-conf=/etc/aurumcoinhuntercore/aurumcoinhunter.conf -datadir=/var/lib/aurumcoinhunterd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
